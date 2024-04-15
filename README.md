@@ -22,7 +22,7 @@ AD DS
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating New user account name Awad Shaikh : <br/>
+Creating New user account named Awad Shaikh : <br/>
 <img src="https://imgur.com/lwGOkLB.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
