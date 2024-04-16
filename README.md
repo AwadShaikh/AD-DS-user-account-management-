@@ -46,7 +46,7 @@ Unlocking user account  <br/>
 <img src="https://imgur.com/hIwVC4f.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Locking user account <br/>
+Disabling user account <br/>
 <img src="https://imgur.com/jyKldYJ.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
